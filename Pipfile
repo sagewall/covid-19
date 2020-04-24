@@ -4,16 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyterlab = "*"
-pandas = "*"
 geopandas = "*"
+pandas = "*"
 mapclassify = "*"
 descartes = "*"
+jupyterlab = "*"
 
 [dev-packages]
 rope = "*"
-pylint = "*"
 autopep8 = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.8"
