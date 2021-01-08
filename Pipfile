@@ -11,6 +11,9 @@ mapclassify = "*"
 descartes = "*"
 
 [dev-packages]
+autopep8 = "*"
+rope = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.8"
